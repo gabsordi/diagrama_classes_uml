@@ -1,2 +1,2 @@
-Entrega da N1 da matéria Requisitos, modelagem e análise de dados.
+Entrega da N1 do aluno GABRIEL LUCIOS ANANIAS SORDI.
 Entrega individual, fiz o trabalho sozinho.
